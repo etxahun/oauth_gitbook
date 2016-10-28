@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](introduction.md)
-* How it works
+* [How it works](how_it_works.md)
 
