@@ -1,0 +1,1 @@
+OAuth related personal notes.
